@@ -67,7 +67,7 @@ $today = getdate();
               <ul class="nav navbar-nav navbar-right">
                  <li class="active"><a href="#works">Home</a></li>
                  <li ><a href="#about">About</a></li>
-                 <li ><a href="http://localhost/dev/solatapi/api.php" target="_blank">Api</a></li>
+                 <li ><a href="api.php" target="_blank">Api</a></li>
               </ul>
             </div>
             <!-- #Nav Ends -->
